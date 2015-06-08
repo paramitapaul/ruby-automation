@@ -2,7 +2,7 @@ require 'rspec'
 
 describe 'My First Rspec Test' do
 
-  it 'should First testcase' do
+  it 'should be First testcase' do
 
     #true.should == false
     puts 'First Test Passed'
