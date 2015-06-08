@@ -12,7 +12,7 @@ describe 'My First Rspec Test' do
     #true.should == false
     puts 'First Test Passed'
   end
-  it 'should First testcase' do
+  it 'should be the First testcase' do
 
     #true.should == false
     puts 'First Test Passed'
