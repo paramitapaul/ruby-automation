@@ -9,6 +9,7 @@ class Animal
   end
 
   def getName
+    puts "hi"
     return @name
   end
 
