@@ -15,6 +15,7 @@ class Animal
 
   def setName(name)
     @name = name
+    @name = name
   end
 
   def getAge
